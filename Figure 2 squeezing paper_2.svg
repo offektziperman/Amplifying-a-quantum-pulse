@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 553.03 241.45">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        stroke-width: .6px;
+      }
+
+      .cls-44, .cls-45, .cls-46 {
+        fill: #010101;
+      }
+
+      .cls-44, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-46, .cls-36, .cls-37, .cls-38, .cls-39, .cls-41, .cls-42 {
+        stroke-linejoin: round;
+      }
+
+      .cls-44, .cls-26, .cls-46, .cls-34 {
+        stroke: #010101;
+      }
+
+      .cls-47 {
+        letter-spacing: 0em;
+      }
+
+      .cls-48 {
+        fill: #fff;
+      }
+
+      .cls-49, .cls-50 {
+        fill: #231f20;
+      }
+
+      .cls-51 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-52 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 0 6.65 2.22;
+      }
+
+      .cls-11, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-41, .cls-42 {
+        stroke-width: 2px;
+      }
+
+      .cls-11, .cls-25, .cls-35 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-53 {
+        letter-spacing: 0em;
+      }
+
+      .cls-54 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-55 {
+        letter-spacing: 0em;
+      }
+
+      .cls-56 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        stroke-dasharray: 0 0 7.4 3.2;
+      }
+
+      .cls-27 {
+        stroke: #2fa148;
+      }
+
+      .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-36, .cls-37, .cls-38, .cls-39, .cls-41, .cls-42 {
+        stroke-linecap: square;
+      }
+
+      .cls-28 {
+        stroke: #7f8080;
+      }
+
+      .cls-29 {
+        stroke: #8d574c;
+      }
+
+      .cls-30 {
+        stroke: #9268ad;
+      }
+
+      .cls-31 {
+        stroke: #ed2224;
+      }
+
+      .cls-32 {
+        stroke: #2278b5;
+      }
+
+      .cls-33 {
+        stroke: #1fbfd0;
+      }
+
+      .cls-57 {
+        letter-spacing: 0em;
+      }
+
+      .cls-58 {
+        letter-spacing: 0em;
+      }
+
+      .cls-46, .cls-34 {
+        stroke-width: .8px;
+      }
+
+      .cls-35 {
+        stroke-dasharray: 0 0 5.21 1.74;
+      }
+
+      .cls-50 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-59 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-36 {
+        stroke: #d62a28;
+      }
+
+      .cls-37 {
+        stroke: #d87ab2;
+      }
+
+      .cls-38 {
+        stroke: #bcbe32;
+      }
+
+      .cls-39 {
+        stroke: #3a53a4;
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-41 {
+        stroke: #faa51a;
+      }
+
+      .cls-42 {
+        stroke: #f57f20;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="cls-1" x="69.13" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="cls-1" x="302.91" y="28.44" width="194.82" height="182.5"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-1" x="207.07" y="43.64" width="54.19" height="42.21"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="cls-1" x="207.07" y="43.64" width="54.19" height="42.21"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-1" x="207.07" y="43.64" width="54.19" height="42.21"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="cls-1" x="207.07" y="43.64" width="54.19" height="42.21"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-1" x="207.07" y="43.64" width="54.19" height="42.21"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-1" x="88.4" y="69.7" width="54.41" height="42.38"/>
+    </clipPath>
+    <image id="image" width="107" height="61" xlink:href="../../../../../../../../../../../../Users/offek/Downloads/CodeCogsEqn (18).png"/>
+  </defs>
+  <g id="figure_1" data-name="figure 1">
+    <g id="patch_1" data-name="patch 1">
+      <path class="cls-48" d="m0,237.01h553.03V0H0v237.01Z"/>
+    </g>
+    <g id="axes_1" data-name="axes 1">
+      <g id="patch_2" data-name="patch 2">
+        <path class="cls-48" d="m69.13,210.94h194.82V28.44H69.13v182.5Z"/>
+      </g>
+      <g id="matplotlib.axis_1" data-name="matplotlib.axis 1">
+        <g id="xtick_1" data-name="xtick 1">
+          <g id="line2d_1" data-name="line2d 1">
+            <path id="mf6940d9c60" class="cls-46" d="m69.13,210.94v3.84"/>
+          </g>
+          <g id="text_1" data-name="text 1">
+            <g>
+              <path id="DejaVuSans-31" class="cls-45" d="m57.6,225.97h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30" class="cls-45" d="m66.7,219.6c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212" class="cls-45" d="m71.12,219.96h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-31-2" data-name="DejaVuSans-31" class="cls-45" d="m77.69,222.05h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_2" data-name="xtick 2">
+          <g id="line2d_2" data-name="line2d 2">
+            <path id="mf6940d9c60-2" data-name="mf6940d9c60" class="cls-46" d="m166.54,210.94v3.84"/>
+          </g>
+          <g id="text_2" data-name="text 2">
+            <g>
+              <path id="DejaVuSans-31-3" data-name="DejaVuSans-31" class="cls-45" d="m158.24,225.96h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-2" data-name="DejaVuSans-30" class="cls-45" d="m167.35,219.59c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-30-3" data-name="DejaVuSans-30" class="cls-45" d="m173.39,217.57c-.39,0-.68.19-.88.58-.2.38-.29.96-.29,1.73s.1,1.34.29,1.73c.2.38.49.58.88.58s.69-.19.88-.58c.2-.38.3-.96.3-1.73s-.1-1.35-.3-1.73c-.2-.38-.49-.58-.88-.58Zm0-.6c.63,0,1.11.25,1.44.75.33.5.5,1.22.5,2.16s-.17,1.66-.5,2.16c-.33.5-.81.74-1.44.74s-1.11-.25-1.44-.74c-.33-.5-.5-1.22-.5-2.16s.17-1.67.5-2.16c.33-.5.81-.75,1.44-.75Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_3" data-name="xtick 3">
+          <g id="line2d_3" data-name="line2d 3">
+            <path id="mf6940d9c60-3" data-name="mf6940d9c60" class="cls-46" d="m263.94,210.94v3.84"/>
+          </g>
+          <g id="text_3" data-name="text 3">
+            <g>
+              <path id="DejaVuSans-31-4" data-name="DejaVuSans-31" class="cls-45" d="m255.65,225.97h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-4" data-name="DejaVuSans-30" class="cls-45" d="m264.76,219.6c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-31-5" data-name="DejaVuSans-31" class="cls-45" d="m269.31,222.05h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_4" data-name="xtick 4">
+          <g id="line2d_4" data-name="line2d 4">
+            <path id="mec086c459a" class="cls-44" d="m98.45,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_5" data-name="xtick 5">
+          <g id="line2d_5" data-name="line2d 5">
+            <path id="mec086c459a-2" data-name="mec086c459a" class="cls-44" d="m115.6,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_6" data-name="xtick 6">
+          <g id="line2d_6" data-name="line2d 6">
+            <path id="mec086c459a-3" data-name="mec086c459a" class="cls-44" d="m127.77,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_7" data-name="xtick 7">
+          <g id="line2d_7" data-name="line2d 7">
+            <path id="mec086c459a-4" data-name="mec086c459a" class="cls-44" d="m137.21,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_8" data-name="xtick 8">
+          <g id="line2d_8" data-name="line2d 8">
+            <path id="mec086c459a-5" data-name="mec086c459a" class="cls-44" d="m144.93,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_9" data-name="xtick 9">
+          <g id="line2d_9" data-name="line2d 9">
+            <path id="mec086c459a-6" data-name="mec086c459a" class="cls-44" d="m151.45,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_10" data-name="xtick 10">
+          <g id="line2d_10" data-name="line2d 10">
+            <path id="mec086c459a-7" data-name="mec086c459a" class="cls-44" d="m157.1,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_11" data-name="xtick 11">
+          <g id="line2d_11" data-name="line2d 11">
+            <path id="mec086c459a-8" data-name="mec086c459a" class="cls-44" d="m162.08,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_12" data-name="xtick 12">
+          <g id="line2d_12" data-name="line2d 12">
+            <path id="mec086c459a-9" data-name="mec086c459a" class="cls-44" d="m195.86,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_13" data-name="xtick 13">
+          <g id="line2d_13" data-name="line2d 13">
+            <path id="mec086c459a-10" data-name="mec086c459a" class="cls-44" d="m213.01,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_14" data-name="xtick 14">
+          <g id="line2d_14" data-name="line2d 14">
+            <path id="mec086c459a-11" data-name="mec086c459a" class="cls-44" d="m225.18,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_15" data-name="xtick 15">
+          <g id="line2d_15" data-name="line2d 15">
+            <path id="mec086c459a-12" data-name="mec086c459a" class="cls-44" d="m234.62,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_16" data-name="xtick 16">
+          <g id="line2d_16" data-name="line2d 16">
+            <path id="mec086c459a-13" data-name="mec086c459a" class="cls-44" d="m242.33,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_17" data-name="xtick 17">
+          <g id="line2d_17" data-name="line2d 17">
+            <path id="mec086c459a-14" data-name="mec086c459a" class="cls-44" d="m248.86,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_18" data-name="xtick 18">
+          <g id="line2d_18" data-name="line2d 18">
+            <path id="mec086c459a-15" data-name="mec086c459a" class="cls-44" d="m254.5,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_19" data-name="xtick 19">
+          <g id="line2d_19" data-name="line2d 19">
+            <path id="mec086c459a-16" data-name="mec086c459a" class="cls-44" d="m259.49,210.94v2.19"/>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_2" data-name="matplotlib.axis 2">
+        <g id="ytick_1" data-name="ytick 1">
+          <g id="line2d_20" data-name="line2d 20">
+            <path id="m89a146b307" class="cls-46" d="m69.13,210.94h-3.84"/>
+          </g>
+          <g id="text_4" data-name="text 4">
+            <g>
+              <path id="DejaVuSans-31-6" data-name="DejaVuSans-31" class="cls-45" d="m37.02,214.11h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-5" data-name="DejaVuSans-30" class="cls-45" d="m46.13,207.74c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212-2" data-name="DejaVuSans-2212" class="cls-45" d="m50.54,208.1h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-33" class="cls-45" d="m59.28,207.8c.36.08.65.24.85.48.2.24.31.55.31.91,0,.55-.19.98-.57,1.28-.38.3-.92.45-1.62.45-.23,0-.48-.02-.72-.07-.25-.05-.51-.12-.77-.21v-.73c.21.12.44.21.69.28.25.06.51.09.78.09.47,0,.84-.09,1.08-.28s.37-.46.37-.82c0-.33-.12-.59-.35-.77-.23-.19-.55-.28-.96-.28h-.65v-.62h.68c.37,0,.66-.07.85-.22s.3-.36.3-.64-.1-.51-.31-.66c-.2-.15-.49-.23-.87-.23-.21,0-.43.02-.67.07-.24.04-.5.11-.78.21v-.67c.29-.08.56-.14.81-.18s.49-.06.71-.06c.58,0,1.03.13,1.36.39.34.26.5.61.5,1.06,0,.31-.09.57-.27.79s-.43.36-.76.44Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_2" data-name="ytick 2">
+          <g id="line2d_21" data-name="line2d 21">
+            <path id="m89a146b307-2" data-name="m89a146b307" class="cls-46" d="m69.13,155.65h-3.84"/>
+          </g>
+          <g id="text_5" data-name="text 5">
+            <g>
+              <path id="DejaVuSans-31-7" data-name="DejaVuSans-31" class="cls-45" d="m37.02,158.83h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-6" data-name="DejaVuSans-30" class="cls-45" d="m46.13,152.45c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212-3" data-name="DejaVuSans-2212" class="cls-45" d="m50.54,152.81h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-32" class="cls-45" d="m57.64,154.9h2.64v.64h-3.55v-.64c.29-.3.68-.7,1.17-1.2.5-.5.81-.83.94-.97.24-.27.41-.5.51-.69.1-.19.15-.37.15-.56,0-.3-.1-.54-.31-.73-.21-.19-.48-.28-.82-.28-.24,0-.49.04-.75.12-.26.08-.54.21-.84.38v-.77c.3-.12.59-.21.85-.28.27-.06.51-.09.73-.09.58,0,1.04.15,1.39.44.34.29.52.68.52,1.16,0,.23-.04.45-.13.66-.09.21-.24.45-.47.73-.06.07-.26.28-.6.63-.33.35-.81.83-1.42,1.45Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_3" data-name="ytick 3">
+          <g id="line2d_22" data-name="line2d 22">
+            <path id="m89a146b307-3" data-name="m89a146b307" class="cls-46" d="m69.13,100.37h-3.84"/>
+          </g>
+          <g id="text_6" data-name="text 6">
+            <g>
+              <path id="DejaVuSans-31-8" data-name="DejaVuSans-31" class="cls-45" d="m37.02,103.55h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-7" data-name="DejaVuSans-30" class="cls-45" d="m46.13,97.18c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212-4" data-name="DejaVuSans-2212" class="cls-45" d="m50.54,97.54h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-31-9" data-name="DejaVuSans-31" class="cls-45" d="m57.12,99.63h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_4" data-name="ytick 4">
+          <g id="line2d_23" data-name="line2d 23">
+            <path id="m89a146b307-4" data-name="m89a146b307" class="cls-46" d="m69.13,45.08h-3.84"/>
+          </g>
+          <g id="text_7" data-name="text 7">
+            <g>
+              <path id="DejaVuSans-31-10" data-name="DejaVuSans-31" class="cls-45" d="m43.5,48.26h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-8" data-name="DejaVuSans-30" class="cls-45" d="m52.6,41.88c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-30-9" data-name="DejaVuSans-30" class="cls-45" d="m58.64,39.87c-.39,0-.68.19-.88.58-.2.38-.29.96-.29,1.73s.1,1.34.29,1.73c.2.38.49.58.88.58s.69-.19.88-.58c.2-.38.3-.96.3-1.73s-.1-1.35-.3-1.73c-.2-.38-.49-.58-.88-.58Zm0-.6c.63,0,1.11.25,1.44.75.33.5.5,1.22.5,2.16s-.17,1.66-.5,2.16c-.33.5-.81.74-1.44.74s-1.11-.25-1.44-.74c-.33-.5-.5-1.22-.5-2.16s.17-1.67.5-2.16c.33-.5.81-.75,1.44-.75Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_5" data-name="ytick 5">
+          <g id="line2d_24" data-name="line2d 24">
+            <path id="mb31ef8541b" class="cls-44" d="m69.13,194.3h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_6" data-name="ytick 6">
+          <g id="line2d_25" data-name="line2d 25">
+            <path id="mb31ef8541b-2" data-name="mb31ef8541b" class="cls-44" d="m69.13,184.56h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_7" data-name="ytick 7">
+          <g id="line2d_26" data-name="line2d 26">
+            <path id="mb31ef8541b-3" data-name="mb31ef8541b" class="cls-44" d="m69.13,177.65h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_8" data-name="ytick 8">
+          <g id="line2d_27" data-name="line2d 27">
+            <path id="mb31ef8541b-4" data-name="mb31ef8541b" class="cls-44" d="m69.13,172.3h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_9" data-name="ytick 9">
+          <g id="line2d_28" data-name="line2d 28">
+            <path id="mb31ef8541b-5" data-name="mb31ef8541b" class="cls-44" d="m69.13,167.92h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_10" data-name="ytick 10">
+          <g id="line2d_29" data-name="line2d 29">
+            <path id="mb31ef8541b-6" data-name="mb31ef8541b" class="cls-44" d="m69.13,164.22h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_11" data-name="ytick 11">
+          <g id="line2d_30" data-name="line2d 30">
+            <path id="mb31ef8541b-7" data-name="mb31ef8541b" class="cls-44" d="m69.13,161.01h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_12" data-name="ytick 12">
+          <g id="line2d_31" data-name="line2d 31">
+            <path id="mb31ef8541b-8" data-name="mb31ef8541b" class="cls-44" d="m69.13,158.18h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_13" data-name="ytick 13">
+          <g id="line2d_32" data-name="line2d 32">
+            <path id="mb31ef8541b-9" data-name="mb31ef8541b" class="cls-44" d="m69.13,139.01h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_14" data-name="ytick 14">
+          <g id="line2d_33" data-name="line2d 33">
+            <path id="mb31ef8541b-10" data-name="mb31ef8541b" class="cls-44" d="m69.13,129.28h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_15" data-name="ytick 15">
+          <g id="line2d_34" data-name="line2d 34">
+            <path id="mb31ef8541b-11" data-name="mb31ef8541b" class="cls-44" d="m69.13,122.37h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_16" data-name="ytick 16">
+          <g id="line2d_35" data-name="line2d 35">
+            <path id="mb31ef8541b-12" data-name="mb31ef8541b" class="cls-44" d="m69.13,117.01h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_17" data-name="ytick 17">
+          <g id="line2d_36" data-name="line2d 36">
+            <path id="mb31ef8541b-13" data-name="mb31ef8541b" class="cls-44" d="m69.13,112.63h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_18" data-name="ytick 18">
+          <g id="line2d_37" data-name="line2d 37">
+            <path id="mb31ef8541b-14" data-name="mb31ef8541b" class="cls-44" d="m69.13,108.93h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_19" data-name="ytick 19">
+          <g id="line2d_38" data-name="line2d 38">
+            <path id="mb31ef8541b-15" data-name="mb31ef8541b" class="cls-44" d="m69.13,105.73h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_20" data-name="ytick 20">
+          <g id="line2d_39" data-name="line2d 39">
+            <path id="mb31ef8541b-16" data-name="mb31ef8541b" class="cls-44" d="m69.13,102.9h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_21" data-name="ytick 21">
+          <g id="line2d_40" data-name="line2d 40">
+            <path id="mb31ef8541b-17" data-name="mb31ef8541b" class="cls-44" d="m69.13,83.73h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_22" data-name="ytick 22">
+          <g id="line2d_41" data-name="line2d 41">
+            <path id="mb31ef8541b-18" data-name="mb31ef8541b" class="cls-44" d="m69.13,73.99h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_23" data-name="ytick 23">
+          <g id="line2d_42" data-name="line2d 42">
+            <path id="mb31ef8541b-19" data-name="mb31ef8541b" class="cls-44" d="m69.13,67.08h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_24" data-name="ytick 24">
+          <g id="line2d_43" data-name="line2d 43">
+            <path id="mb31ef8541b-20" data-name="mb31ef8541b" class="cls-44" d="m69.13,61.73h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_25" data-name="ytick 25">
+          <g id="line2d_44" data-name="line2d 44">
+            <path id="mb31ef8541b-21" data-name="mb31ef8541b" class="cls-44" d="m69.13,57.35h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_26" data-name="ytick 26">
+          <g id="line2d_45" data-name="line2d 45">
+            <path id="mb31ef8541b-22" data-name="mb31ef8541b" class="cls-44" d="m69.13,53.65h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_27" data-name="ytick 27">
+          <g id="line2d_46" data-name="line2d 46">
+            <path id="mb31ef8541b-23" data-name="mb31ef8541b" class="cls-44" d="m69.13,50.44h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_28" data-name="ytick 28">
+          <g id="line2d_47" data-name="line2d 47">
+            <path id="mb31ef8541b-24" data-name="mb31ef8541b" class="cls-44" d="m69.13,47.61h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_29" data-name="ytick 29">
+          <g id="line2d_48" data-name="line2d 48">
+            <path id="mb31ef8541b-25" data-name="mb31ef8541b" class="cls-44" d="m69.13,28.44h-2.19"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_49" data-name="line2d 49">
+        <g class="cls-40">
+          <path class="cls-32" d="m69.13,40.61l6.72.54,6.72.63,6.72.73,6.72.84,6.72.97,6.72,1.12,6.72,1.28,6.72,1.47,6.72,1.67,6.72,1.89,6.72,2.13,6.72,2.39,6.72,2.67,6.72,2.96,6.72,3.26,6.72,3.57,6.72,3.88,6.72,4.18,6.72,4.48,6.72,4.77,6.72,5.04,6.72,5.21,6.72,5.2,6.72,4.92,6.72,4.36,6.72,3.65,6.72,2.9,6.72,2.22,6.72,1.65"/>
+        </g>
+      </g>
+      <g id="line2d_50" data-name="line2d 50">
+        <g class="cls-10">
+          <path class="cls-42" d="m69.13,216.72l6.72-5.82,6.72-6,6.72-6.15,6.72-6.22,6.72-6.22,6.72-6.16,6.72-6.04,6.72-5.88,6.72-5.67,6.72-5.41,6.72-5.1,6.72-4.75,6.72-4.34,6.72-3.89,6.72-3.39,6.72-2.84,6.72-2.26,6.72-1.64,6.72-.99,6.72-.33,6.72.32,6.72.9,6.72,1.31,6.72,1.43,6.72,1.29,6.72,1,6.72.67,6.72.4,6.72.21"/>
+        </g>
+      </g>
+      <g id="line2d_51" data-name="line2d 51">
+        <g class="cls-9">
+          <path class="cls-27" d="m98.52,238.11l4.19-3.81,6.72-6.28,6.72-6.36,6.72-6.37,6.72-6.32,6.72-6.22,6.72-6.06,6.72-5.86,6.72-5.62,6.72-5.33,6.72-4.99,6.72-4.6,6.72-4.15,6.72-3.66,6.72-3.12,6.72-2.53,6.72-1.92,6.72-1.33,6.72-.88,6.72-.64,6.72-.58,6.72-.61,6.72-.6,6.72-.53,6.72-.43"/>
+        </g>
+      </g>
+      <g id="line2d_52" data-name="line2d 52">
+        <g class="cls-7">
+          <path class="cls-36" d="m131.46,238.11l4.85-4.64,6.72-6.4,6.72-6.3,6.72-6.16,6.72-5.97,6.72-5.73,6.72-5.45,6.72-5.11,6.72-4.72,6.72-4.28,6.72-3.79,6.72-3.25,6.72-2.71,6.72-2.27,6.72-1.96,6.72-1.74,6.72-1.49,6.72-1.18,6.72-.87,6.72-.6"/>
+        </g>
+      </g>
+      <g id="line2d_53" data-name="line2d 53">
+        <g class="cls-8">
+          <path class="cls-30" d="m155.36,238.11l1.1-1.04,6.72-6.29,6.72-6.13,6.72-5.92,6.72-5.66,6.72-5.35,6.72-4.99,6.72-4.58,6.72-4.11,6.72-3.63,6.72-3.2,6.72-2.83,6.72-2.41,6.72-1.9,6.72-1.37,6.72-.91,6.72-.59"/>
+        </g>
+      </g>
+      <g id="line2d_54" data-name="line2d 54">
+        <g class="cls-6">
+          <path class="cls-29" d="m174.51,238.11l2.11-1.94,6.72-6,6.72-5.76,6.72-5.46,6.72-5.11,6.72-4.7,6.72-4.27,6.72-3.84,6.72-3.38,6.72-2.76,6.72-2.03,6.72-1.36,6.72-.87,6.72-.54"/>
+        </g>
+      </g>
+      <g id="line2d_55" data-name="line2d 55">
+        <g class="cls-4">
+          <path class="cls-37" d="m190.68,238.11l6.09-5.24,6.72-5.48,6.72-5.13,6.72-4.73,6.72-4.29,6.72-3.72,6.72-2.91,6.72-2.02,6.72-1.3,6.72-.8,6.72-.49"/>
+        </g>
+      </g>
+      <g id="line2d_56" data-name="line2d 56">
+        <g class="cls-3">
+          <path class="cls-28" d="m204.94,238.11l5.26-4.26,6.72-5.07,6.72-4.61,6.72-3.91,6.72-2.94,6.72-1.96,6.72-1.22,6.72-.74,6.72-.45"/>
+        </g>
+      </g>
+      <g id="line2d_57" data-name="line2d 57">
+        <g class="cls-2">
+          <path class="cls-38" d="m218,238.11l5.64-4.06,6.72-4.01,6.72-2.9,6.72-1.88,6.72-1.15,6.72-.69,6.72-.41"/>
+        </g>
+      </g>
+      <g id="line2d_58" data-name="line2d 58">
+        <g class="cls-5">
+          <path class="cls-33" d="m232.55,238.11l4.52-1.91,6.72-1.8,6.72-1.08,6.72-.64,6.72-.38"/>
+        </g>
+      </g>
+      <g id="patch_3" data-name="patch 3">
+        <path class="cls-34" d="m69.13,210.94V28.44"/>
+      </g>
+      <g id="patch_4" data-name="patch 4">
+        <path class="cls-34" d="m263.94,210.94V28.44"/>
+      </g>
+      <g id="patch_5" data-name="patch 5">
+        <path class="cls-34" d="m69.13,210.94h194.82"/>
+      </g>
+      <g id="patch_6" data-name="patch 6">
+        <path class="cls-34" d="m69.13,28.44h194.82"/>
+      </g>
+    </g>
+    <g id="axes_2" data-name="axes 2">
+      <g id="patch_7" data-name="patch 7">
+        <path class="cls-48" d="m302.91,210.94h194.82V28.44h-194.82v182.5Z"/>
+      </g>
+      <g id="matplotlib.axis_3" data-name="matplotlib.axis 3">
+        <g id="xtick_20" data-name="xtick 20">
+          <g id="line2d_59" data-name="line2d 59">
+            <path id="mf6940d9c60-4" data-name="mf6940d9c60" class="cls-46" d="m302.91,210.94v3.84"/>
+          </g>
+          <g id="text_8" data-name="text 8">
+            <g>
+              <path id="DejaVuSans-31-11" data-name="DejaVuSans-31" class="cls-45" d="m291.38,225.97h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-10" data-name="DejaVuSans-30" class="cls-45" d="m300.48,219.6c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212-5" data-name="DejaVuSans-2212" class="cls-45" d="m304.9,219.96h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-31-12" data-name="DejaVuSans-31" class="cls-45" d="m311.47,222.05h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_21" data-name="xtick 21">
+          <g id="line2d_60" data-name="line2d 60">
+            <path id="mf6940d9c60-5" data-name="mf6940d9c60" class="cls-46" d="m400.31,210.94v3.84"/>
+          </g>
+          <g id="text_9" data-name="text 9">
+            <g>
+              <path id="DejaVuSans-31-13" data-name="DejaVuSans-31" class="cls-45" d="m392.02,225.96h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-11" data-name="DejaVuSans-30" class="cls-45" d="m401.13,219.59c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-30-12" data-name="DejaVuSans-30" class="cls-45" d="m407.17,217.57c-.39,0-.68.19-.88.58-.2.38-.29.96-.29,1.73s.1,1.34.29,1.73c.2.38.49.58.88.58s.69-.19.88-.58c.2-.38.3-.96.3-1.73s-.1-1.35-.3-1.73c-.2-.38-.49-.58-.88-.58Zm0-.6c.63,0,1.11.25,1.44.75.33.5.5,1.22.5,2.16s-.17,1.66-.5,2.16c-.33.5-.81.74-1.44.74s-1.11-.25-1.44-.74c-.33-.5-.5-1.22-.5-2.16s.17-1.67.5-2.16c.33-.5.81-.75,1.44-.75Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_22" data-name="xtick 22">
+          <g id="line2d_61" data-name="line2d 61">
+            <path id="mf6940d9c60-6" data-name="mf6940d9c60" class="cls-46" d="m497.72,210.94v3.84"/>
+          </g>
+          <g id="text_10" data-name="text 10">
+            <g>
+              <path id="DejaVuSans-31-14" data-name="DejaVuSans-31" class="cls-45" d="m489.43,225.97h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-13" data-name="DejaVuSans-30" class="cls-45" d="m498.54,219.6c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-31-15" data-name="DejaVuSans-31" class="cls-45" d="m503.09,222.05h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="xtick_23" data-name="xtick 23">
+          <g id="line2d_62" data-name="line2d 62">
+            <path id="mec086c459a-17" data-name="mec086c459a" class="cls-44" d="m332.23,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_24" data-name="xtick 24">
+          <g id="line2d_63" data-name="line2d 63">
+            <path id="mec086c459a-18" data-name="mec086c459a" class="cls-44" d="m349.38,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_25" data-name="xtick 25">
+          <g id="line2d_64" data-name="line2d 64">
+            <path id="mec086c459a-19" data-name="mec086c459a" class="cls-44" d="m361.55,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_26" data-name="xtick 26">
+          <g id="line2d_65" data-name="line2d 65">
+            <path id="mec086c459a-20" data-name="mec086c459a" class="cls-44" d="m370.99,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_27" data-name="xtick 27">
+          <g id="line2d_66" data-name="line2d 66">
+            <path id="mec086c459a-21" data-name="mec086c459a" class="cls-44" d="m378.71,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_28" data-name="xtick 28">
+          <g id="line2d_67" data-name="line2d 67">
+            <path id="mec086c459a-22" data-name="mec086c459a" class="cls-44" d="m385.23,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_29" data-name="xtick 29">
+          <g id="line2d_68" data-name="line2d 68">
+            <path id="mec086c459a-23" data-name="mec086c459a" class="cls-44" d="m390.88,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_30" data-name="xtick 30">
+          <g id="line2d_69" data-name="line2d 69">
+            <path id="mec086c459a-24" data-name="mec086c459a" class="cls-44" d="m395.86,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_31" data-name="xtick 31">
+          <g id="line2d_70" data-name="line2d 70">
+            <path id="mec086c459a-25" data-name="mec086c459a" class="cls-44" d="m429.64,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_32" data-name="xtick 32">
+          <g id="line2d_71" data-name="line2d 71">
+            <path id="mec086c459a-26" data-name="mec086c459a" class="cls-44" d="m446.79,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_33" data-name="xtick 33">
+          <g id="line2d_72" data-name="line2d 72">
+            <path id="mec086c459a-27" data-name="mec086c459a" class="cls-44" d="m458.96,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_34" data-name="xtick 34">
+          <g id="line2d_73" data-name="line2d 73">
+            <path id="mec086c459a-28" data-name="mec086c459a" class="cls-44" d="m468.4,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_35" data-name="xtick 35">
+          <g id="line2d_74" data-name="line2d 74">
+            <path id="mec086c459a-29" data-name="mec086c459a" class="cls-44" d="m476.11,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_36" data-name="xtick 36">
+          <g id="line2d_75" data-name="line2d 75">
+            <path id="mec086c459a-30" data-name="mec086c459a" class="cls-44" d="m482.63,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_37" data-name="xtick 37">
+          <g id="line2d_76" data-name="line2d 76">
+            <path id="mec086c459a-31" data-name="mec086c459a" class="cls-44" d="m488.28,210.94v2.19"/>
+          </g>
+        </g>
+        <g id="xtick_38" data-name="xtick 38">
+          <g id="line2d_77" data-name="line2d 77">
+            <path id="mec086c459a-32" data-name="mec086c459a" class="cls-44" d="m493.27,210.94v2.19"/>
+          </g>
+        </g>
+      </g>
+      <g id="matplotlib.axis_4" data-name="matplotlib.axis 4">
+        <g id="ytick_30" data-name="ytick 30">
+          <g id="line2d_78" data-name="line2d 78">
+            <path id="m89a146b307-5" data-name="m89a146b307" class="cls-46" d="m302.91,163.68h-3.84"/>
+          </g>
+          <g id="text_11" data-name="text 11">
+            <g>
+              <path id="DejaVuSans-31-16" data-name="DejaVuSans-31" class="cls-45" d="m270.8,166.86h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-14" data-name="DejaVuSans-30" class="cls-45" d="m279.91,160.48c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-2212-6" data-name="DejaVuSans-2212" class="cls-45" d="m284.32,160.84h4.81v.64h-4.81v-.64Z"/>
+              <path id="DejaVuSans-31-17" data-name="DejaVuSans-31" class="cls-45" d="m290.9,162.93h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_31" data-name="ytick 31">
+          <g id="line2d_79" data-name="line2d 79">
+            <path id="m89a146b307-6" data-name="m89a146b307" class="cls-46" d="m302.91,96.06h-3.84"/>
+          </g>
+          <g id="text_12" data-name="text 12">
+            <g>
+              <path id="DejaVuSans-31-18" data-name="DejaVuSans-31" class="cls-45" d="m277.28,99.23h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-15" data-name="DejaVuSans-30" class="cls-45" d="m286.38,92.86c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-30-16" data-name="DejaVuSans-30" class="cls-45" d="m292.42,90.84c-.39,0-.68.19-.88.58-.2.38-.29.96-.29,1.73s.1,1.34.29,1.73c.2.38.49.58.88.58s.69-.19.88-.58c.2-.38.3-.96.3-1.73s-.1-1.35-.3-1.73c-.2-.38-.49-.58-.88-.58Zm0-.6c.63,0,1.11.25,1.44.75.33.5.5,1.22.5,2.16s-.17,1.66-.5,2.16c-.33.5-.81.74-1.44.74s-1.11-.25-1.44-.74c-.33-.5-.5-1.22-.5-2.16s.17-1.67.5-2.16c.33-.5.81-.75,1.44-.75Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_32" data-name="ytick 32">
+          <g id="line2d_80" data-name="line2d 80">
+            <path id="m89a146b307-7" data-name="m89a146b307" class="cls-46" d="m302.91,28.44h-3.84"/>
+          </g>
+          <g id="text_13" data-name="text 13">
+            <g>
+              <path id="DejaVuSans-31-19" data-name="DejaVuSans-31" class="cls-45" d="m277.28,31.62h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+              <path id="DejaVuSans-30-17" data-name="DejaVuSans-30" class="cls-45" d="m286.38,25.25c-.56,0-.98.27-1.26.82-.28.55-.42,1.37-.42,2.47s.14,1.92.42,2.47c.28.55.7.82,1.26.82s.98-.27,1.26-.82c.28-.55.42-1.37.42-2.47s-.14-1.92-.42-2.47c-.28-.55-.7-.82-1.26-.82Zm0-.86c.9,0,1.58.35,2.06,1.06.47.71.71,1.74.71,3.09s-.24,2.37-.71,3.08c-.47.71-1.16,1.06-2.06,1.06s-1.58-.35-2.05-1.06c-.47-.71-.71-1.74-.71-3.08s.24-2.38.71-3.09c.47-.71,1.16-1.06,2.05-1.06Z"/>
+              <path id="DejaVuSans-31-20" data-name="DejaVuSans-31" class="cls-45" d="m290.93,27.7h1.24v-4.27l-1.35.27v-.69l1.34-.27h.76v4.96h1.24v.64h-3.22v-.64Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="ytick_33" data-name="ytick 33">
+          <g id="line2d_81" data-name="line2d 81">
+            <path id="mb31ef8541b-26" data-name="mb31ef8541b" class="cls-44" d="m302.91,210.94h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_34" data-name="ytick 34">
+          <g id="line2d_82" data-name="line2d 82">
+            <path id="mb31ef8541b-27" data-name="mb31ef8541b" class="cls-44" d="m302.91,199.03h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_35" data-name="ytick 35">
+          <g id="line2d_83" data-name="line2d 83">
+            <path id="mb31ef8541b-28" data-name="mb31ef8541b" class="cls-44" d="m302.91,190.58h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_36" data-name="ytick 36">
+          <g id="line2d_84" data-name="line2d 84">
+            <path id="mb31ef8541b-29" data-name="mb31ef8541b" class="cls-44" d="m302.91,184.03h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_37" data-name="ytick 37">
+          <g id="line2d_85" data-name="line2d 85">
+            <path id="mb31ef8541b-30" data-name="mb31ef8541b" class="cls-44" d="m302.91,178.68h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_38" data-name="ytick 38">
+          <g id="line2d_86" data-name="line2d 86">
+            <path id="mb31ef8541b-31" data-name="mb31ef8541b" class="cls-44" d="m302.91,174.15h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_39" data-name="ytick 39">
+          <g id="line2d_87" data-name="line2d 87">
+            <path id="mb31ef8541b-32" data-name="mb31ef8541b" class="cls-44" d="m302.91,170.23h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_40" data-name="ytick 40">
+          <g id="line2d_88" data-name="line2d 88">
+            <path id="mb31ef8541b-33" data-name="mb31ef8541b" class="cls-44" d="m302.91,166.77h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_41" data-name="ytick 41">
+          <g id="line2d_89" data-name="line2d 89">
+            <path id="mb31ef8541b-34" data-name="mb31ef8541b" class="cls-44" d="m302.91,143.32h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_42" data-name="ytick 42">
+          <g id="line2d_90" data-name="line2d 90">
+            <path id="mb31ef8541b-35" data-name="mb31ef8541b" class="cls-44" d="m302.91,131.41h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_43" data-name="ytick 43">
+          <g id="line2d_91" data-name="line2d 91">
+            <path id="mb31ef8541b-36" data-name="mb31ef8541b" class="cls-44" d="m302.91,122.97h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_44" data-name="ytick 44">
+          <g id="line2d_92" data-name="line2d 92">
+            <path id="mb31ef8541b-37" data-name="mb31ef8541b" class="cls-44" d="m302.91,116.41h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_45" data-name="ytick 45">
+          <g id="line2d_93" data-name="line2d 93">
+            <path id="mb31ef8541b-38" data-name="mb31ef8541b" class="cls-44" d="m302.91,111.06h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_46" data-name="ytick 46">
+          <g id="line2d_94" data-name="line2d 94">
+            <path id="mb31ef8541b-39" data-name="mb31ef8541b" class="cls-44" d="m302.91,106.53h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_47" data-name="ytick 47">
+          <g id="line2d_95" data-name="line2d 95">
+            <path id="mb31ef8541b-40" data-name="mb31ef8541b" class="cls-44" d="m302.91,102.61h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_48" data-name="ytick 48">
+          <g id="line2d_96" data-name="line2d 96">
+            <path id="mb31ef8541b-41" data-name="mb31ef8541b" class="cls-44" d="m302.91,99.15h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_49" data-name="ytick 49">
+          <g id="line2d_97" data-name="line2d 97">
+            <path id="mb31ef8541b-42" data-name="mb31ef8541b" class="cls-44" d="m302.91,75.7h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_50" data-name="ytick 50">
+          <g id="line2d_98" data-name="line2d 98">
+            <path id="mb31ef8541b-43" data-name="mb31ef8541b" class="cls-44" d="m302.91,63.8h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_51" data-name="ytick 51">
+          <g id="line2d_99" data-name="line2d 99">
+            <path id="mb31ef8541b-44" data-name="mb31ef8541b" class="cls-44" d="m302.91,55.35h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_52" data-name="ytick 52">
+          <g id="line2d_100" data-name="line2d 100">
+            <path id="mb31ef8541b-45" data-name="mb31ef8541b" class="cls-44" d="m302.91,48.8h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_53" data-name="ytick 53">
+          <g id="line2d_101" data-name="line2d 101">
+            <path id="mb31ef8541b-46" data-name="mb31ef8541b" class="cls-44" d="m302.91,43.44h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_54" data-name="ytick 54">
+          <g id="line2d_102" data-name="line2d 102">
+            <path id="mb31ef8541b-47" data-name="mb31ef8541b" class="cls-44" d="m302.91,38.92h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_55" data-name="ytick 55">
+          <g id="line2d_103" data-name="line2d 103">
+            <path id="mb31ef8541b-48" data-name="mb31ef8541b" class="cls-44" d="m302.91,34.99h-2.19"/>
+          </g>
+        </g>
+        <g id="ytick_56" data-name="ytick 56">
+          <g id="line2d_104" data-name="line2d 104">
+            <path id="mb31ef8541b-49" data-name="mb31ef8541b" class="cls-44" d="m302.91,31.54h-2.19"/>
+          </g>
+        </g>
+      </g>
+      <g id="line2d_105" data-name="line2d 105">
+        <g class="cls-20">
+          <path class="cls-31" d="m302.91,65.83l6.72.4,6.72.46,6.72.52,6.72.6,6.72.68,6.72.77,6.72.87,6.72.97,6.72,1.07,6.72,1.17,6.72,1.27,6.72,1.37,6.72,1.45,6.72,1.53,6.72,1.59,6.72,1.63,6.72,1.65,6.72,1.64,6.72,1.59,6.72,1.51,6.72,1.38,6.72,1.22,6.72,1.02,6.72.8,6.72.6,6.72.43,6.72.3,6.72.21,6.72.15"/>
+        </g>
+      </g>
+      <g id="line2d_106" data-name="line2d 106">
+        <g class="cls-15">
+          <path class="cls-39" d="m302.91,33.33l6.72.29,6.72.33,6.72.38,6.72.43,6.72.49,6.72.55,6.72.61,6.72.68,6.72.75,6.72.82,6.72.89,6.72.96,6.72,1.03,6.72,1.09,6.72,1.15,6.72,1.2,6.72,1.23,6.72,1.23,6.72,1.21,6.72,1.15,6.72,1.05,6.72.92,6.72.77,6.72.6,6.72.45,6.72.32,6.72.23,6.72.16,6.72.11"/>
+        </g>
+      </g>
+      <g id="line2d_107" data-name="line2d 107">
+        <g class="cls-14">
+          <path class="cls-41" d="m302.91,67.59l6.72.09,6.72.12,6.72.15,6.72.19,6.72.23,6.72.29,6.72.35,6.72.43,6.72.5,6.72.56,6.72.6,6.72.6,6.72.54,6.72.41,6.72.2,6.72-.06,6.72-.35,6.72-.64,6.72-.88,6.72-1.07,6.72-1.18,6.72-1.22,6.72-1.17,6.72-1.05,6.72-.88,6.72-.71,6.72-.54,6.72-.41,6.72-.31"/>
+        </g>
+      </g>
+      <g id="line2d_108" data-name="line2d 108">
+        <g class="cls-12">
+          <path class="cls-26" d="m302.91,67.63l6.72.1,6.72.12,6.72.15,6.72.19,6.72.23,6.72.29,6.72.35,6.72.43,6.72.5,6.72.56,6.72.6,6.72.6,6.72.54,6.72.41,6.72.2,6.72-.06,6.72-.36,6.72-.64,6.72-.88,6.72-1.07,6.72-1.18,6.72-1.22,6.72-1.17,6.72-1.05,6.72-.89,6.72-.71,6.72-.55,6.72-.41,6.72-.31"/>
+        </g>
+      </g>
+      <g id="line2d_109" data-name="line2d 109">
+        <g class="cls-13">
+          <path class="cls-31" d="m302.91,118.76l6.72.44,6.72.52,6.72.61,6.72.71,6.72.83,6.72.98,6.72,1.14,6.72,1.33,6.72,1.54,6.72,1.75,6.72,1.97,6.72,2.18,6.72,2.37,6.72,2.54,6.72,2.74,6.72,3.03,6.72,3.45,6.72,4.03,6.72,4.7,6.72,5.34,6.72,5.84,6.72,6.12,6.72,6.09,6.72,5.71,6.72,5.03,6.72,4.19,6.72,3.35,6.72,2.59,6.72,1.96"/>
+        </g>
+      </g>
+      <g id="line2d_110" data-name="line2d 110">
+        <g class="cls-21">
+          <path class="cls-39" d="m302.91,97.18l6.72.45,6.72.54,6.72.65,6.72.78,6.72.93,6.72,1.12,6.72,1.35,6.72,1.62,6.72,1.93,6.72,2.28,6.72,2.65,6.72,3.02,6.72,3.37,6.72,3.67,6.72,3.91,6.72,4.12,6.72,4.35,6.72,4.64,6.72,4.99,6.72,5.36,6.72,5.68,6.72,5.89,6.72,5.89,6.72,5.58,6.72,4.99,6.72,4.23,6.72,3.42,6.72,2.68,6.72,2.05"/>
+        </g>
+      </g>
+      <g id="line2d_111" data-name="line2d 111">
+        <g class="cls-19">
+          <path class="cls-26" d="m302.91,93.11l6.72.74,6.72.86,6.72,1.01,6.72,1.17,6.72,1.36,6.72,1.57,6.72,1.82,6.72,2.1,6.72,2.41,6.72,2.76,6.72,3.13,6.72,3.51,6.72,3.9,6.72,4.27,6.72,4.61,6.72,4.94,6.72,5.3,6.72,5.73,6.72,6.22,6.72,6.7,6.72,7.08,6.72,7.24,6.72,7.08,6.72,6.53,6.72,5.66,6.72,4.66,6.72,3.68,6.72,2.82,6.72,2.12"/>
+        </g>
+      </g>
+      <g id="patch_8" data-name="patch 8">
+        <path class="cls-34" d="m302.91,210.94V28.44"/>
+      </g>
+      <g id="patch_9" data-name="patch 9">
+        <path class="cls-34" d="m497.72,210.94V28.44"/>
+      </g>
+      <g id="patch_10" data-name="patch 10">
+        <path class="cls-34" d="m302.91,210.94h194.82"/>
+      </g>
+      <g id="patch_11" data-name="patch 11">
+        <path class="cls-34" d="m302.91,28.44h194.82"/>
+      </g>
+      <g id="legend_1" data-name="legend 1">
+        <g id="line2d_112" data-name="line2d 112">
+          <path class="cls-31" d="m312.78,144.88h21.95"/>
+        </g>
+        <g id="text_14" data-name="text 14">
+          <g>
+            <path id="DejaVuSans-7c" class="cls-45" d="m345.81,140.28v10.97h-.91v-10.97h.91Z"/>
+            <path id="DejaVuSans-Oblique-6e" class="cls-45" d="m353.32,145.04l-.7,3.62h-.99l.7-3.58c.03-.17.06-.32.07-.44.02-.13.03-.23.03-.31,0-.3-.09-.53-.28-.7-.19-.17-.45-.25-.79-.25-.53,0-.98.18-1.37.53-.38.35-.63.83-.75,1.43l-.66,3.33h-.99l1.16-6h.99l-.2.94c.27-.35.6-.61.99-.8.39-.19.79-.28,1.22-.28.53,0,.94.14,1.23.43.29.29.44.69.44,1.21,0,.13,0,.27-.02.41s-.04.31-.07.48Z"/>
+            <path id="DejaVuSans-3d" class="cls-45" d="m357.46,143.68h6.87v.9h-6.87v-.9Zm0,2.19h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-31-21" data-name="DejaVuSans-31" class="cls-45" d="m368.99,147.75h1.77v-6.1l-1.92.39v-.99l1.91-.39h1.08v7.09h1.77v.91h-4.61v-.91Z"/>
+            <path id="DejaVuSans-27e9" class="cls-45" d="m377.91,145.22l-1.51,4.89h-.91l1.51-4.89-1.51-4.89h.91l1.51,4.89Z"/>
+          </g>
+        </g>
+        <g id="line2d_113" data-name="line2d 113">
+          <path class="cls-39" d="m312.78,161.45h21.95"/>
+        </g>
+        <g id="text_15" data-name="text 15">
+          <g>
+            <path id="DejaVuSans-7c-2" data-name="DejaVuSans-7c" class="cls-45" d="m345.81,156.84v10.97h-.91v-10.97h.91Z"/>
+            <path id="DejaVuSans-Oblique-6e-2" data-name="DejaVuSans-Oblique-6e" class="cls-45" d="m353.32,161.61l-.7,3.62h-.99l.7-3.58c.03-.17.06-.32.07-.44.02-.13.03-.23.03-.31,0-.3-.09-.53-.28-.7-.19-.17-.45-.25-.79-.25-.53,0-.98.18-1.37.53-.38.35-.63.83-.75,1.43l-.66,3.33h-.99l1.16-6h.99l-.2.94c.27-.35.6-.61.99-.8.39-.19.79-.28,1.22-.28.53,0,.94.14,1.23.43.29.29.44.69.44,1.21,0,.13,0,.27-.02.41s-.04.31-.07.48Z"/>
+            <path id="DejaVuSans-3d-2" data-name="DejaVuSans-3d" class="cls-45" d="m357.46,160.25h6.87v.9h-6.87v-.9Zm0,2.19h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-34" class="cls-45" d="m371.77,158.17l-2.73,4.27h2.73v-4.27Zm-.28-.94h1.36v5.21h1.14v.9h-1.14v1.89h-1.08v-1.89h-3.61v-1.04l3.33-5.07Z"/>
+            <path id="DejaVuSans-27e9-2" data-name="DejaVuSans-27e9" class="cls-45" d="m377.91,161.79l-1.51,4.89h-.91l1.51-4.89-1.51-4.89h.91l1.51,4.89Z"/>
+          </g>
+        </g>
+        <g id="line2d_114" data-name="line2d 114">
+          <path class="cls-41" d="m312.78,178.02h21.95"/>
+        </g>
+        <g id="text_16" data-name="text 16">
+          <g>
+            <path id="DejaVuSans-7c-3" data-name="DejaVuSans-7c" class="cls-45" d="m345.81,173.41v10.97h-.91v-10.97h.91Z"/>
+            <path id="DejaVuSans-Oblique-3b1" class="cls-45" d="m351.69,179.01v-1.24c0-.84-.31-1.27-.94-1.27-.48,0-.86.19-1.16.59-.37.49-.62,1.06-.75,1.71-.15.79-.13,1.37.06,1.74.2.38.52.57.95.57.48,0,.92-.38,1.32-1.14l.51-.97Zm-.78-3.34c1.11-.02,1.66.55,1.65,1.7,0,0,.28-.52.84-1.57h.88l-1.73,3.25-.02,1.17c0,.17.05.34.15.48.11.17.22.26.34.26h.48l-.16.84h-.59c-.34,0-.63-.15-.87-.45-.11-.15-.17-.38-.18-.7-.23.38-.55.74-.95,1.06-.19.15-.54.22-1.05.22-.84,0-1.41-.28-1.71-.81-.31-.56-.37-1.33-.18-2.31.21-1.06.58-1.83,1.12-2.31.61-.54,1.27-.81,1.98-.82Z"/>
+            <path id="DejaVuSans-3d-3" data-name="DejaVuSans-3d" class="cls-45" d="m357.74,176.82h6.87v.9h-6.87v-.9Zm0,2.19h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-32-2" data-name="DejaVuSans-32" class="cls-45" d="m370.01,180.89h3.78v.91h-5.08v-.91c.41-.43.97-1,1.68-1.71.71-.72,1.16-1.18,1.34-1.39.35-.39.59-.72.73-.99.14-.27.21-.53.21-.8,0-.43-.15-.77-.45-1.04-.3-.27-.69-.4-1.17-.4-.34,0-.7.06-1.07.18-.38.12-.78.3-1.21.54v-1.09c.44-.17.84-.31,1.22-.4.38-.09.73-.13,1.04-.13.83,0,1.49.21,1.98.62.49.41.74.97.74,1.66,0,.33-.06.64-.19.94-.12.29-.35.64-.67,1.04-.09.1-.37.4-.85.9-.48.49-1.15,1.19-2.02,2.08Z"/>
+            <path id="DejaVuSans-27e9-3" data-name="DejaVuSans-27e9" class="cls-45" d="m378.19,178.36l-1.51,4.89h-.91l1.51-4.89-1.51-4.89h.91l1.51,4.89Z"/>
+          </g>
+        </g>
+        <g id="line2d_115" data-name="line2d 115">
+          <path class="cls-26" d="m312.78,194.59h21.95"/>
+        </g>
+        <g id="text_17" data-name="text 17">
+          <g>
+            <path id="DejaVuSans-7c-4" data-name="DejaVuSans-7c" class="cls-45" d="m345.81,189.98v10.97h-.91v-10.97h.91Z"/>
+            <path id="DejaVuSans-Oblique-3b1-2" data-name="DejaVuSans-Oblique-3b1" class="cls-45" d="m351.69,195.58v-1.24c0-.84-.31-1.27-.94-1.27-.48,0-.86.19-1.16.59-.37.49-.62,1.06-.75,1.71-.15.79-.13,1.37.06,1.74.2.38.52.57.95.57.48,0,.92-.38,1.32-1.14l.51-.97Zm-.78-3.34c1.11-.02,1.66.55,1.65,1.7,0,0,.28-.52.84-1.57h.88l-1.73,3.25-.02,1.17c0,.17.05.34.15.48.11.17.22.26.34.26h.48l-.16.84h-.59c-.34,0-.63-.15-.87-.45-.11-.15-.17-.38-.18-.7-.23.38-.55.74-.95,1.06-.19.15-.54.22-1.05.22-.84,0-1.41-.28-1.71-.81-.31-.56-.37-1.33-.18-2.31.21-1.06.58-1.83,1.12-2.31.61-.54,1.27-.81,1.98-.82Z"/>
+            <path id="DejaVuSans-3d-4" data-name="DejaVuSans-3d" class="cls-45" d="m357.74,193.39h6.87v.9h-6.87v-.9Zm0,2.19h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-32-3" data-name="DejaVuSans-32" class="cls-45" d="m370.01,197.46h3.78v.91h-5.08v-.91c.41-.43.97-1,1.68-1.71.71-.72,1.16-1.18,1.34-1.39.35-.39.59-.72.73-.99.14-.27.21-.53.21-.8,0-.43-.15-.77-.45-1.04-.3-.27-.69-.4-1.17-.4-.34,0-.7.06-1.07.18-.38.12-.78.3-1.21.54v-1.09c.44-.17.84-.31,1.22-.4.38-.09.73-.13,1.04-.13.83,0,1.49.21,1.98.62.49.41.74.97.74,1.66,0,.33-.06.64-.19.94-.12.29-.35.64-.67,1.04-.09.1-.37.4-.85.9-.48.49-1.15,1.19-2.02,2.08Z"/>
+            <path id="DejaVuSans-27e9-4" data-name="DejaVuSans-27e9" class="cls-45" d="m378.19,194.93l-1.51,4.89h-.91l1.51-4.89-1.51-4.89h.91l1.51,4.89Z"/>
+            <path id="DejaVuSans-2b" class="cls-45" d="m386.35,191.49v2.98h2.98v.91h-2.98v2.98h-.9v-2.98h-2.98v-.91h2.98v-2.98h.9Z"/>
+            <path id="DejaVuSans-7c-5" data-name="DejaVuSans-7c" class="cls-45" d="m394.94,189.98v10.97h-.91v-10.97h.91Z"/>
+            <path id="DejaVuSans-Oblique-3b1-3" data-name="DejaVuSans-Oblique-3b1" class="cls-45" d="m400.82,195.58v-1.24c0-.84-.31-1.27-.94-1.27-.48,0-.86.19-1.16.59-.37.49-.62,1.06-.75,1.71-.15.79-.13,1.37.06,1.74.2.38.52.57.95.57.48,0,.92-.38,1.32-1.14l.51-.97Zm-.78-3.34c1.11-.02,1.66.55,1.65,1.7,0,0,.28-.52.84-1.57h.88l-1.73,3.25-.02,1.17c0,.17.05.34.15.48.11.17.22.26.34.26h.48l-.16.84h-.59c-.34,0-.63-.15-.87-.45-.11-.15-.17-.38-.18-.7-.23.38-.55.74-.95,1.06-.19.15-.54.22-1.05.22-.84,0-1.41-.28-1.71-.81-.31-.56-.37-1.33-.18-2.31.21-1.06.58-1.83,1.12-2.31.61-.54,1.27-.81,1.98-.82Z"/>
+            <path id="DejaVuSans-3d-5" data-name="DejaVuSans-3d" class="cls-45" d="m406.87,193.39h6.87v.9h-6.87v-.9Zm0,2.19h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-2212-7" data-name="DejaVuSans-2212" class="cls-45" d="m420.34,194.47h6.87v.91h-6.87v-.91Z"/>
+            <path id="DejaVuSans-32-4" data-name="DejaVuSans-32" class="cls-45" d="m432.61,197.46h3.78v.91h-5.08v-.91c.41-.43.97-1,1.68-1.71.71-.72,1.16-1.18,1.34-1.39.35-.39.59-.72.73-.99.14-.27.21-.53.21-.8,0-.43-.15-.77-.45-1.04-.3-.27-.69-.4-1.17-.4-.34,0-.7.06-1.07.18-.38.12-.78.3-1.21.54v-1.09c.44-.17.84-.31,1.22-.4.38-.09.73-.13,1.04-.13.83,0,1.49.21,1.98.62.49.41.74.97.74,1.66,0,.33-.06.64-.19.94-.12.29-.35.64-.67,1.04-.09.1-.37.4-.85.9-.48.49-1.15,1.19-2.02,2.08Z"/>
+            <path id="DejaVuSans-27e9-5" data-name="DejaVuSans-27e9" class="cls-45" d="m440.79,194.93l-1.51,4.89h-.91l1.51-4.89-1.51-4.89h.91l1.51,4.89Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text class="cls-50" transform="translate(247.75 38.92)"><tspan x="0" y="0">(a)</tspan></text>
+  <text class="cls-50" transform="translate(482.63 38.92)"><tspan x="0" y="0">(</tspan><tspan class="cls-54" x="3.41" y="0">b</tspan><tspan class="cls-53" x="10.2" y="0">)</tspan></text>
+  <text class="cls-50" transform="translate(127.43 25.53)"><tspan class="cls-59" x="0" y="0">V</tspan><tspan x="6.3" y="0">acuum seed</tspan></text>
+  <text class="cls-50" transform="translate(353.46 25.53)"><tspan class="cls-57" x="0" y="0">Q</tspan><tspan class="cls-53" x="8.3" y="0">ua</tspan><tspan class="cls-55" x="20.7" y="0">n</tspan><tspan class="cls-53" x="27.31" y="0">tum st</tspan><tspan class="cls-55" x="59.17" y="0">a</tspan><tspan class="cls-43" x="64.91" y="0">t</tspan><tspan class="cls-53" x="68.81" y="0">e seed</tspan></text>
+  <g id="axes_2-2" data-name="axes 2">
+    <g id="patch_8-2" data-name="patch 8">
+      <path class="cls-48" d="m207.07,85.86h54.19v-42.21h-54.19v42.21Z"/>
+    </g>
+    <g id="line2d_5-2" data-name="line2d 5">
+      <g class="cls-18">
+        <path class="cls-32" d="m207.07,65.75l3.81-3.36,7.08-6.28,1.91-1.59,1.63-1.29,1.36-1,1.09-.75,1.09-.69,1.09-.63,1.09-.56,1.09-.49,1.09-.42.82-.26.82-.22.82-.17.82-.13.82-.08.82-.04h.82s.82.06.82.06l.82.1,1.09.19,1.09.26,1.09.33,1.09.39,1.09.45,1.09.5,1.36.69,1.36.75,1.63.96,2.18,1.34,5.72,3.57,1.91,1.11,1.63.9,1.63.83.54.26h0"/>
+      </g>
+    </g>
+    <g id="line2d_6-2" data-name="line2d 6">
+      <g class="cls-16">
+        <path class="cls-42" d="m207.07,65.75l3.27-5.64,1.36-2.25,1.09-1.71,1.09-1.61.82-1.12.82-1.04.82-.94.82-.84.54-.5.54-.44.54-.39.54-.33.54-.27.54-.2.54-.14.54-.08h.54s.54.05.54.05l.54.12.54.19.54.26.54.32.54.39.54.45.54.51.54.57.54.63.82,1.05.82,1.16.82,1.26.82,1.35,1.09,1.92,1.09,2.03,1.63,3.16,2.72,5.29,1.09,2.02,1.09,1.92.82,1.36.82,1.28.82,1.19.82,1.09.82.99.82.88.54.52.54.47.54.42.54.37.54.32.54.27.54.22.54.17.54.12.54.07.54.02.54-.02.54-.06.54-.1.82-.23.82-.31.82-.38.82-.45.82-.5,1.09-.75,1.09-.81,1.63-1.3,1.36-1.11h0"/>
+      </g>
+    </g>
+    <g id="line2d_7-2" data-name="line2d 7">
+      <g class="cls-17">
+        <path class="cls-27" d="m207.07,65.75l1.91-5.08,1.09-2.77.82-1.95.82-1.8.54-1.11.54-1.02.54-.92.54-.81.54-.7.54-.58.54-.45.27-.18.27-.14.27-.11.27-.08.27-.04h.27s.27.02.27.02l.27.06.27.1.27.14.27.17.27.21.54.52.54.65.54.78.54.91.54,1.03.54,1.14.54,1.24.82,2.03.82,2.2,1.09,3.12,3.27,9.6.82,2.21.82,2.04.54,1.25.54,1.15.54,1.04.54.92.54.79.54.65.54.52.27.21.27.17.27.13.27.1.27.06.27.03h.27s.27-.06.27-.06l.27-.08.27-.12.27-.15.27-.19.54-.47.54-.6.54-.72.54-.84.54-.95.54-1.04.54-1.13.82-1.84.82-1.98,1.09-2.79,3.54-9.25.82-1.97.82-1.84.82-1.7.54-1.04.54-.96.54-.88.54-.79.54-.71.54-.62.54-.53.54-.44.54-.35.54-.26.54-.18.54-.1.54-.02.54.05.54.12.54.19.54.25.54.3.54.35.82.59.27.21h0"/>
+      </g>
+    </g>
+    <g id="line2d_8-2" data-name="line2d 8">
+      <g class="cls-24">
+        <path class="cls-36" d="m207.07,65.75l1.63,5.92.82,2.77.54,1.72.54,1.59.54,1.44.54,1.27.54,1.08.27.46.27.41.27.35.27.29.27.24.27.18.27.12.27.05h.27s.27-.08.27-.08l.27-.13.27-.2.27-.26.27-.32.27-.38.27-.44.27-.5.54-1.16.54-1.37.54-1.57.54-1.74.54-1.89.82-3.04,1.09-4.3,1.36-5.41.82-3.07.54-1.9.54-1.76.54-1.58.54-1.38.54-1.16.27-.49.27-.43.27-.37.27-.31.27-.24.27-.17.27-.11.27-.04.27.03.27.1.27.16.27.23.27.29.27.36.27.42.27.48.27.54.54,1.24.54,1.45.54,1.63.54,1.79.82,2.92,1.09,4.17,1.63,6.34.82,2.98.54,1.85.54,1.71.54,1.55.54,1.37.54,1.17.27.51.27.45.27.4.27.34.27.28.27.22.27.17.27.11.27.05h.27s.27-.08.27-.08l.27-.12.27-.18.27-.24.27-.29.27-.34.27-.39.54-.93.54-1.11.54-1.28.54-1.42.54-1.55.82-2.51,1.09-3.57,2.18-7.28.82-2.57.82-2.39.54-1.47.54-1.36.54-1.24.54-1.11.54-.97.54-.84.54-.7.54-.56.54-.42.27-.16.27-.13.27-.1.27-.07.54-.05.54.06.54.15.27.11h0"/>
+      </g>
+    </g>
+    <g id="line2d_9-2" data-name="line2d 9">
+      <g class="cls-23">
+        <path class="cls-30" d="m207.07,65.75l1.36-6.26.54-2.34.54-2.17.54-1.96.54-1.7.27-.74.27-.66.27-.58.27-.49.27-.4.27-.31.27-.22.27-.12.27-.02.27.08.27.18.27.27.27.37.27.47.27.56.27.65.27.74.27.82.54,1.88.54,2.15.54,2.38.82,3.89,2.18,10.78.54,2.44.54,2.22.54,1.95.27.86.27.77.27.68.27.59.27.49.27.39.27.28.27.18.27.07.27-.04.27-.14.27-.25.27-.36.27-.46.27-.56.27-.66.27-.75.27-.84.54-1.92.54-2.2.54-2.44.82-3.96,1.91-9.56.54-2.52.54-2.32.54-2.06.54-1.75.27-.75.27-.66.27-.56.27-.47.27-.37.27-.27.27-.17.27-.06.27.04.27.14.27.24.27.34.27.44.27.53.27.62.27.71.27.79.54,1.8.54,2.06.54,2.27.82,3.69,2.18,10.17.54,2.32.54,2.13.54,1.9.54,1.63.27.71.27.63.27.55.27.47.27.38.27.3.27.21.27.13.27.04.27-.04.27-.13.27-.21.27-.29.27-.37.27-.45.27-.52.27-.59.54-1.37.54-1.61.54-1.81.54-1.98.82-3.19,3-12.09.54-1.96.54-1.82.54-1.66.54-1.48.54-1.29.54-1.09.54-.9.27-.37.27-.33.27-.28.27-.23.27-.19.27-.15.27-.1.27-.07h0"/>
+      </g>
+    </g>
+    <g id="patch_9-2" data-name="patch 9">
+      <path class="cls-34" d="m207.07,85.86v-42.21"/>
+    </g>
+    <g id="patch_10-2" data-name="patch 10">
+      <path class="cls-34" d="m261.26,85.86v-42.21"/>
+    </g>
+    <g id="patch_11-2" data-name="patch 11">
+      <path class="cls-34" d="m207.07,85.86h54.19"/>
+    </g>
+    <g id="patch_12" data-name="patch 12">
+      <path class="cls-34" d="m207.07,43.64h54.19"/>
+    </g>
+  </g>
+  <text class="cls-50" transform="translate(223.54 95.45)"><tspan class="cls-52" x="0" y="0">T</tspan><tspan x="5.82" y="0">ime</tspan></text>
+  <text class="cls-50" transform="translate(205.42 80.88) rotate(-90)"><tspan class="cls-58" x="0" y="0">M</tspan><tspan x="9.72" y="0">odes</tspan></text>
+  <g id="axes_2-3" data-name="axes 2">
+    <g id="patch_8-3" data-name="patch 8">
+      <path class="cls-48" d="m88.4,112.08h54.41v-42.38h-54.41v42.38Z"/>
+    </g>
+    <g id="line2d_5-3" data-name="line2d 5">
+      <g class="cls-22">
+        <path class="cls-32" d="m88.4,110.15h16.95s.27-.04.27-.04l.27-.22.27-.86.27-2.81.27-8.76.27-14.96.27-9.37.27-1.5.27,1.03.82,3.98.55,2.43.55,2.26.55,2.09.55,1.94.55,1.8.55,1.67.55,1.55.55,1.44.55,1.33.55,1.23.55,1.15.55,1.06.55.98.55.91.55.85.82,1.16.82,1.03.82.92.82.82.82.74.82.66.82.59.82.52.82.47.82.42,1.09.49,1.09.42,1.09.36,1.09.31,1.37.33,1.37.27,1.64.27,1.91.24,1.91.19,2.46.18,2.73.14h0"/>
+      </g>
+    </g>
+    <g id="patch_9-3" data-name="patch 9">
+      <path class="cls-34" d="m88.4,112.08v-42.38"/>
+    </g>
+    <g id="patch_10-3" data-name="patch 10">
+      <path class="cls-34" d="m142.81,112.08v-42.38"/>
+    </g>
+    <g id="patch_11-3" data-name="patch 11">
+      <path class="cls-34" d="m88.4,112.08h54.41"/>
+    </g>
+    <g id="patch_12-2" data-name="patch 12">
+      <path class="cls-34" d="m88.4,69.7h54.41"/>
+    </g>
+  </g>
+  <g>
+    <line class="cls-25" x1="97.09" y1="48.42" x2="97.09" y2="51.42"/>
+    <line class="cls-35" x1="97.09" y1="53.16" x2="97.09" y2="66.18"/>
+    <line class="cls-25" x1="97.09" y1="67.05" x2="97.09" y2="70.05"/>
+    <polygon class="cls-49" points="94.13 50.67 97.09 49.41 100.05 50.67 97.09 43.64 94.13 50.67"/>
+  </g>
+  <g>
+    <line class="cls-25" x1="255.49" y1="112.57" x2="255.49" y2="109.57"/>
+    <line class="cls-11" x1="255.49" y1="107.35" x2="255.49" y2="90.72"/>
+    <line class="cls-25" x1="255.49" y1="89.61" x2="255.49" y2="86.61"/>
+    <polygon class="cls-49" points="258.46 110.32 255.49 111.58 252.53 110.32 255.49 117.34 258.46 110.32"/>
+  </g>
+  <text class="cls-50" transform="translate(103.52 122.3)"><tspan class="cls-52" x="0" y="0">T</tspan><tspan x="5.82" y="0">ime</tspan></text>
+  <text class="cls-50" transform="translate(85.4 107.72) rotate(-90)"><tspan class="cls-58" x="0" y="0">M</tspan><tspan x="9.72" y="0">odes</tspan></text>
+  <text class="cls-50" transform="translate(28.56 151.25) rotate(-90)"><tspan class="cls-47" x="0" y="0">O</tspan><tspan class="cls-43" x="8.32" y="0">c</tspan><tspan x="13.62" y="0">cup</tspan><tspan class="cls-56" x="32.44" y="0">a</tspan><tspan x="38.17" y="0">tion</tspan></text>
+  <g>
+    <text class="cls-50" transform="translate(111.53 237.42)"><tspan class="cls-51" x="0" y="0">P</tspan><tspan x="6.2" y="0">ump width in time</tspan></text>
+    <use transform="translate(214.17 226.93) scale(.24)" xlink:href="#image"/>
+  </g>
+  <g>
+    <text class="cls-50" transform="translate(343.12 237.42)"><tspan class="cls-51" x="0" y="0">P</tspan><tspan x="6.2" y="0">ump width in time</tspan></text>
+    <use transform="translate(445.75 226.93) scale(.24)" xlink:href="#image"/>
+  </g>
+</svg>
